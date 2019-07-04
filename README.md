@@ -1,4 +1,4 @@
-List of haka.maka.eu IP adresses
+# haka_maka
 
-The file is updated every 1 hour
-Adresy IP aktualizowane sa co godzine
+haka.maka.eu
+IP List to block
